@@ -25,7 +25,6 @@ do projeto, conforme detalhado a seguir.
 - viii) Default: Valor padrão da coluna, caso aplicável.
 - ix) Unique: Se o valor da coluna deve ser único (sim ou não).
 
-- # d) Aplique as 3 Formas Normais para verificar se o modelo esta normalizado:
-  ver
+- # d) Aplique as 3 Formas Normais para verificar se o modelo esta normalizado: Verifique se o modelo relacional atende as três formas normais (1FN, 2FN e 3FN). Caso o modelo não esteja normalizado, aplique as técnicas necessárias para adequá-lo. Documente, passso a passo, as alterações realizadas em cada tabela parar alcançar a normalização.
 
 
