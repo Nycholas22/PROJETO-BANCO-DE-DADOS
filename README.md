@@ -5,4 +5,7 @@ desenvolvendo um sistema de informação que exige a craiação de um banco de d
 funcional. O cenário apresentado, com a descrição do problema, será a base para o desenvolvimento
 do projeto, conforme detalhado a seguir.
 
+# 1) Com base no problema descrito, elabore o Diagrama Entidade-Relacionamento (DER) correspondente, atendendo aos seguintes requisitos:
+- a
+
 
