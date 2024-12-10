@@ -12,9 +12,20 @@ do projeto, conforme detalhado a seguir.
 - d) Certifique-se de que o modelo aborde adequadamente todos os aspectos do problema apresentado.
 
 # 2 Para o DER desenhado na questão 01, desenvolva:
-- # a)Descrição Do Modelo Relacional: Converta o modelo conceitual para o modelo relacional, especificando as tabelas, os relacionamentos entre elas e identificando as chaves primarias (PK) e estrangeiras (FK) em cada tabela.
-- # b)Diagrama Do Modelo Relacional: Desenhe o diagrama relacional evidenciando as tabelas, atributos, chaves primarias (PK) e chaves entrangeiras (FK), além dos relacionamentos entre elas
-- # c)Dicionario de Dados: Crie um dicionário de dados para todos as tabelas do modelo relacional. Cada coluna de cada tabela deve conter as seguintes informações:
+- # a) Descrição Do Modelo Relacional: Converta o modelo conceitual para o modelo relacional, especificando as tabelas, os relacionamentos entre elas e identificando as chaves primarias (PK) e estrangeiras (FK) em cada tabela.
+- # b) Diagrama Do Modelo Relacional: Desenhe o diagrama relacional evidenciando as tabelas, atributos, chaves primarias (PK) e chaves entrangeiras (FK), além dos relacionamentos entre elas
+- # c) Dicionario de Dados: Crie um dicionário de dados para todos as tabelas do modelo relacional. Cada coluna de cada tabela deve conter as seguintes informações:
 - i) Nome:
+- ii) Decrição: Breve explicação da finalidade do atributo.
+- iii) Tipo: Tipo de dado ( exemplo: VARCHAR, INT, DATE).
+- iv) Tamanho: Tamanho do dado (se aplicavel).
+- v) Nulo: Se a coluna pode aceitar valores nulos (sim ou não).
+- vi) Regra: Restrições aplicadas ao atributo (exemplo: valores minimos, máximos ou padrões de formato).
+- vii) Chave: Se é uma chave primária (PK) ou chave estrangeira (FK).
+- viii) Default: Valor padrão da coluna, caso aplicável.
+- ix) Unique: Se o valor da coluna deve ser único (sim ou não).
+
+- # d) Aplique as 3 Formas Normais para verificar se o modelo esta normalizado:
+  ver
 
 
